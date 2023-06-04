@@ -10,7 +10,8 @@ Este es un proyecto básico creado con Arduino cuyo fin es lograr una pseudo ala
 ### Lista de componentes
 
 - 1 Placa Arduino (te recomiendo usar Arduino UNO o Nano, puedes usar otras pero no lo veo necesario al ser un proyecto simple)
-- Jumpers (cables de colores a gusto)
+- 6 Jumpers Macho-Macho (colores a gusto)
+- 3 Jumpers Hembra-Macho (colores a gusto)
 - 1 Módulo PIR
 - 1 Piezo (o un Buzzer Activo en su lugar)
 - 1 Pulsador
