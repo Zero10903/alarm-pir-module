@@ -30,7 +30,7 @@ Este es un proyecto básico creado con Arduino cuyo fin es lograr una pseudo ala
 
 Para detenerlo, simplemente presionas el botón y la alarma se apagará al cabo de un momento.
 
-> Cabe recalcar que el pulsador debe estár conectado a uno de los pines de interrupción. Estos ya vienen condifuradas por defecto y dependen del modelo de placa Arduino que uses. Puedes hacer click [Aquí](https://aprendiendoarduino.wordpress.com/2016/11/13/interrupciones/) para ver más sobre el tema.
+> Cabe recalcar que el pulsador debe estár conectado a uno de los pines de interrupción. Estos ya vienen configuradas por defecto y dependen del modelo de placa Arduino que uses. Puedes hacer click [Aquí](https://aprendiendoarduino.wordpress.com/2016/11/13/interrupciones/) para ver más sobre el tema.
 
 ### Demo en Tinkercad
 
