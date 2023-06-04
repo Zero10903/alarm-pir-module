@@ -7,7 +7,7 @@
 
 Este es un proyecto básico creado con Arduino cuyo fin es lograr una pseudo alarma de seguridad.
 
-> _En la carpeta src tendrás dos arcuivos. Uno con textension .cpp en caso de que uses VSCode, y otro con extensión .ino en caso de que uses el IDE de Arduino. Utiliza el archivo que te resulte más cómodo para subir el proyecto a la placa Arduino._
+> _En la carpeta src tendrás dos arcuivos. Uno con extensión .cpp en caso de que uses VS Code, y otro con extensión .ino en caso de que uses el IDE de Arduino. Utiliza el archivo que te resulte más cómodo para subir el proyecto a la placa Arduino._
 
 ### Lista de componentes
 
